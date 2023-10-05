@@ -1,0 +1,5 @@
+a = str(input()).replace('.', ' ')
+b = a.split()
+print(b[2])
+print(b[1])
+print(b[0])
